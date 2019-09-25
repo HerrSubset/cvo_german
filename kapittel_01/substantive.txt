@@ -1,0 +1,29 @@
+Tochter;die;Töchter;de dochter
+Brief;der;Briefe;de brief
+Fest;das;Feste;het feest
+Steckbrief;der;Steckbriefe;het profiel/portret (document)
+Erfinderin;die;Erfinderinnen;uitvindster
+Mehrwegverpackung;die;Mehrwegverpackungen;de herbruikbare verpakking
+Einwegverpackung;die;Einwegverpackungen;de wegwerpverpakking
+Mitglied;das;Mitglieder;het (club)lid
+Verein;der;Vereine;de club
+Kurs;der;Kurse;de cursus
+Klima;das;Klimata/Klimas;het klimaat
+Zelt;das;Zelte;de tent
+Bruchzahl;die;Bruchzahlen;de (wiskundige) breuk
+Pferderennen;das;Pferderennen;de paardenrennen
+Namen;der;Namen;de naam
+Geschwister;das;Geschwister;broers en zussen
+Familie;die;Familien;de familie
+Haus;das;Häuser;het huis
+Wohnung;die;Wohnungen;het appartement
+Freizeit;die;Freizeiten;de vrije tijd
+See;der;Seen;het meer
+Meer;das;Meere;de zee
+Gesicht;das;Gesichter;het gezicht
+Laden;der;Läden;de winkel
+Blatt;das;Blätter;het (boom)blad
+Orange;die;Orangen;de appelsien
+Baum;der;Bäume;de boom
+Bart;der;Bärte;de baard
+Verwandte;die;Verwandten;het familielid

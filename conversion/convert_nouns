@@ -1,0 +1,36 @@
+#!/bin/env bash
+
+if [[ ! -r $1 ]]; then
+    echo "Usage: convert_nouns <noun_file>"
+    exit 1
+fi
+
+input_filepath=$1
+input_file=$(basename $input_filepath)
+outputfile="flashcards_$input_file"
+
+
+# Generate flashcards for the article of the form:
+#   Article: ... <noun>;<der|die|das> <noun>
+cat "$input_filepath" | awk -F ';' -vOFS='' '\
+{ print "Artikel: ... ", $1, ";", $2, " ", $1 } 
+'\ > "$outputfile"
+
+
+# Generate flashcards for the plural of the form:
+#   Plural: <noun>;die <noun_plural>
+cat "$input_filepath" | awk -F ';' -vOFS='' '\
+{ print "Plural: ", $1, ";die ", $3 }
+'\ >> "$outputfile"
+
+
+# Generate Dutch -> German flashcards
+cat "$input_filepath" | awk -F ';' -vOFS='' '\
+{ print "Vertaal: ", $4, ";", $2, " ", $1 }
+'\ >> "$outputfile"
+
+
+# Generate German -> Dutch flashcards
+cat "$input_filepath" | awk -F ';' -vOFS='' '\
+{ print  "Übersetze dieses wort: ", $2, " ", $1, ";", $4 }
+'\ >> "$outputfile"
