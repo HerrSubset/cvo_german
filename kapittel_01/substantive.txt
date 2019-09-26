@@ -12,7 +12,7 @@ Klima;das;Klimata/Klimas;het klimaat
 Zelt;das;Zelte;de tent
 Bruchzahl;die;Bruchzahlen;de (wiskundige) breuk
 Pferderennen;das;Pferderennen;de paardenrennen
-Namen;der;Namen;de naam
+Name;der;Namen;de naam
 Geschwister;das;Geschwister;broers en zussen
 Familie;die;Familien;de familie
 Haus;das;Häuser;het huis
