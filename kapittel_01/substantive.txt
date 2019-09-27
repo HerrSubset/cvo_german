@@ -27,3 +27,4 @@ Orange;die;Orangen;de appelsien
 Baum;der;Bäume;de boom
 Bart;der;Bärte;de baard
 Verwandte;die;Verwandten;het familielid
+Ausbildung;die;Ausbildungen;de opleiding

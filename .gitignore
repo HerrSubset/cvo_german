@@ -1,3 +1,4 @@
 *.txt
 
 !*/substantive.txt
+!*/adjective.txt
