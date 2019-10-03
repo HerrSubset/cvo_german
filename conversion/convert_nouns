@@ -7,7 +7,7 @@ fi
 
 input_filepath=$1
 input_file=$(basename $input_filepath)
-outputfile="flashcards_$input_file"
+outputfile="noun_cards_$input_file"
 
 
 # Generate flashcards for the plural of the form:

@@ -1,0 +1,21 @@
+#!/bin/env bash
+
+if [[ ! -r $1 ]]; then
+    echo "Usage: convert_nouns <noun_file>"
+    exit 1
+fi
+
+input_filepath=$1
+input_file=$(basename $input_filepath)
+outputfile="adj_cards_$input_file"
+
+# Generate Dutch -> German flashcards
+cat "$input_filepath" | awk -F ';' -vOFS='' '\
+{ print "Vertaal: ", $2, ";", $1 }
+'\ > "$outputfile"
+
+
+# Generate German -> Dutch flashcards
+cat "$input_filepath" | awk -F ';' -vOFS='' '\
+{ print  "Übersetze dieses Wort: ", $1, ";", $2 }
+'\ >> "$outputfile"
