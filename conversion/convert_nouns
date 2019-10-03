@@ -10,13 +10,6 @@ input_file=$(basename $input_filepath)
 outputfile="flashcards_$input_file"
 
 
-# Generate flashcards for the article of the form:
-#   Article: ... <noun>;<der|die|das> <noun>
-cat "$input_filepath" | awk -F ';' -vOFS='' '\
-{ print "Artikel: ... ", $1, ";", $2, " ", $1 } 
-'\ > "$outputfile"
-
-
 # Generate flashcards for the plural of the form:
 #   Plural: <noun>;die <noun_plural>
 cat "$input_filepath" | awk -F ';' -vOFS='' '\
@@ -32,5 +25,5 @@ cat "$input_filepath" | awk -F ';' -vOFS='' '\
 
 # Generate German -> Dutch flashcards
 cat "$input_filepath" | awk -F ';' -vOFS='' '\
-{ print  "Übersetze dieses wort: ", $2, " ", $1, ";", $4 }
+{ print  "Übersetze dieses Wort: ", $2, " ", $1, ";", $4 }
 '\ >> "$outputfile"
