@@ -1,0 +1,8 @@
+basteln;knutselen
+erklären;verklaren
+studieren;studeren (aan de universiteit)
+lernen;leren (niet aan de universiteit)
+einwandern;immigreren
+auswandern;emigreren
+wissen;weten
+umziehen;verhuizen

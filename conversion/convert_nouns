@@ -14,7 +14,7 @@ outputfile="noun_cards_$input_file"
 #   Plural: <noun>;die <noun_plural>
 cat "$input_filepath" | awk -F ';' -vOFS='' '\
 { print "Plural: ", $1, ";die ", $3 }
-'\ >> "$outputfile"
+'\ > "$outputfile"
 
 
 # Generate Dutch -> German flashcards

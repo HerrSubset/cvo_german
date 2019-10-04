@@ -2,3 +2,4 @@ ledig;ongehuwd
 verwitwet;weduwe/weduwenaar (adj)
 damalig;toenmalig
 verheiratet;getrouwd
+kompliziert;ingewikkeld
