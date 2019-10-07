@@ -6,8 +6,7 @@ if [[ ! -r $1 ]]; then
 fi
 
 input_filepath=$1
-input_file=$(basename $input_filepath)
-outputfile="verb_cards_$input_file"
+outputfile=$2
 
 # Generate Dutch -> German flashcards
 cat "$input_filepath" | awk -F ';' -vOFS='' '\
