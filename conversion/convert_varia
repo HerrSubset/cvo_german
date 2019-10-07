@@ -7,7 +7,7 @@ fi
 
 input_filepath=$1
 input_file=$(basename $input_filepath)
-outputfile="adj_cards_$input_file"
+outputfile="varia_cards_$input_file"
 
 # Generate Dutch -> German flashcards
 cat "$input_filepath" | awk -F ';' -vOFS='' '\

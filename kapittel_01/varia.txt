@@ -1,3 +1,9 @@
+Termine vereinbaren;afspraken vastleggen
+wann?;wanneer?
+was?;wat?
+wer?;wie?
+wo?;waar?
+woher?;van waar?
 ledig;ongehuwd
 verwitwet;weduwe/weduwenaar (adj)
 damalig;toenmalig
