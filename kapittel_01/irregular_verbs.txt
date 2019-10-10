@@ -1,153 +1,83 @@
-anfangen;er fängt an;er fing an;er hat angefangen;beginnen
-backen;er bäckt;er backte;er hat gebacken;bakken
-befehlen;er befiehlt;er befahl;er hat befohlen;bevelen
-beginnen;er beginnt;er begann;er hat begonnen;beginnen
-beißen;er beißt;er biss;er hat gebissen;bijten
-bekommen;er bekommt;er bekam;er hat bekommen;krijgen
-beschließen;er beschließt;er beschloss;er hat beschlossen;besluiten
-bestehen;er besteht;er bestand;er hat bestanden;bestaan
-betrügen;er betrügt;er betrog;er hat betrogen;bedriegen
-beweisen;er beweist;er bewies;er hat bewiesen;bewijzen
-biegen;er biegt;er bog;er hat gebogen;buigen
-bieten;er bietet;er bot;er hat geboten;bieden
-binden;er bindet;er band;er hat gebunden;binden
-bitten;er bittet;er bat;er hat gebeten;verzoeken
-blasen;er bläst;er blies;er hat geblasen;blazen
-bleiben;er bleibt;er blieb;er ist geblieben;blijven
-braten;er brät;er briet;er hat gebraten;braden
-brechen;er bricht;er brach;er hat gebrochen;breken
-brennen;es brennt;er brannte;es hat gebrannt;branden
-bringen;er bringt;er brachte;er hat gebracht;brengen
-denken;er denkt;er dachte;er hat gedacht;denken
-dürfen;er darf;er durfte;er hat mitkommen dürfen (selten) / er durfte mitkommen (= besser);mogen
-dringen;er dringt;er drang;er hat gedrungen;doordringen
-einladen;er lädt ein;er lud;er hat eingeladen;uitnodigen
-einschlafen;er schläft ein;er schlief ein;er ist eingeschlafen;in slaap vallen
-empfangen;er empfängt;er empfing;er hat empfangen;ontvangen
-empfehlen;er empfiehlt;er empfahl;er hat empfohlen;aanbevelen
-empfinden;er empfindet;er empfand;er hat empfunden;(grote gevoelens) voelen
-entstehen;es entsteht;er entstand;es ist entstanden;ontstaan
-erfinden;er erfindet;er erfand;er hat erfunden;uitvinden
-erschrecken;er erschrickt;er erschrak;er ist erschrocken;schrikken
-essen;er isst;er aß;er hat gegessen;eten
-fahren;er fährt;er fuhr;er ist gefahren;rijden
-fallen;er fällt;er fiel;er ist gefallen;vallen
-fangen;er fängt;er fing;er hat gefangen;vangen
-finden;er findet;er fand;er hat gefunden;vinden
-fliegen;er fliegt;er flog;er ist geflogen;vliegen
-fliehen;er flieht;er floh;er ist geflohen;vluchten
-fließen;es fließt;er floss;es ist geflossen;stromen
-fressen;er frisst;er fraß;er hat gefressen;eten (dieren)
-frieren;es friert;er fror;es hat gefroren;vriezen
-geben;er gibt;er gab;er hat gegeben;geven
-gefallen;er gefällt;er gefiel;er hat gefallen;bevallen (iets goed vinden)
-gehen;er geht;er ging;er ist gegangen;gaan
-gelingen;es gelingt;es gelang;es ist gelungen;(in iets) slagen
-gelten;er gilt;er galt;er hat gegolten;gelden/van kracht zijn
-genießen;er genießt;er genoss;er hat genossen;genieten
-geschehen;es geschieht;es geschah;es ist geschehen;gebeuren
-gewinnen;er gewinnt;er gewann;er hat gewonnen;winnen
-gießen;er gießt;er goss;er hat gegossen;gieten
-gleichen;er gleicht;er glich;er hat geglichen;gelijk zijn
-gleiten;er gleitet;er glitt;er ist geglitten;glijden
-graben;er gräbt;er grub;er hat gegraben;graven
-greifen;er greift;er griff;er hat gegriffen;grijpen
-haben;du hast / er hat;er hatte;er hat gehabt;hebben
-halten;er hält;er hielt;er hat gehalten;stoppen
-hängen;er hängt;er hing;er hat gehangen;hangen
-heben;er hebt;er hob;er hat gehoben;heffen
-heißen;er heißt;er hieß;er hat geheißen;heten
-helfen;er hilft;er half;er hat geholfen;helpen
-kennen;er kennt;er kannte;er hat gekannt;kennen
-klingen;es klingt;er klang;es hat geklungen;luiden
-kommen;er kommt;er kam;er ist gekommen;komen
-können;er kann;er konnte;er hat singen können (selten) / er konnte schön singen (=besser);kunnen
-kriechen;er kriecht;er kroch;er ist gekrochen;kruipen
-laden;er lädt;er lud;er hat geladen;laden
-lassen;er lässt;er ließ;er hat gelassen;laten
-laufen;er läuft;er lief;er ist gelaufen;lopen
-leiden;er leidet;er litt;er hat gelitten;lijden
-leihen;er leiht;er lieh;er hat geliehen;lenen
-lesen;er liest;er las;er hat gelesen;lezen
-liegen;er liegt;er lag;er hat gelegen;liggen
-lügen;er lügt;er log;er hat gelogen;liegen
-messen;er misst;er maß;er hat gemessen;meten
-mögen;er mag;er mochte;er hat keinen Spinat gemocht / er mochte keinen Spinat;lusten/willen
-müssen;er muss;er musste;er hat weggehen müssen (selten) / er musste weggehen (=besser);moeten (verplichting)
-nehmen;er nimmt;er nahm;er hat genommen;nemen
-nennen;er nennt;er nannte;er hat genannt;noemen
-pfeifen;er pfeift;er pfiff;er hat gepfiffen;fluiten
-raten;er rät;er riet;er hat geraten;adviseren
-reiben;er reibt;er rieb;er hat gerieben;wrijven
-reißen;er reißt;er riss;er hat gerissen;scheuren
-reiten;er reitet;er ritt;er ist geritten;rijden (op een rijdier)
-rennen;er rennt;er rannte;er ist gerannt;rennen
-riechen;er riecht;er roch;er hat gerochen;ruiken
-rufen;er ruft;er rief;er hat gerufen;roepen
-saufen;er säuft;er soff;er hat gesoffen;(grote hoeveelheden) drinken
-scheiden;er scheidet;er schied;er ist geschieden;scheiden
-scheinen;er scheint;er schien;er hat geschienen;schijnen
-schelten;er schilt;er schalt;er hat gescholten;berispen
-schieben;er schiebt;er schob;er hat geschoben;duwen
-schießen;er schießt;er schoss;er hat geschossen;schieten
-schlafen;er schläft;er schlief;er hat geschlafen;slapen
-schlagen;er schlägt;er schlug;er hat geschlagen;slaan
-schleichen;er schleicht;er schlich;er ist geschlichen;slupen
-schließen;er schließt;er schloss;er hat geschlossen;sluiten
-schmelzen;es schmilzt;er schmolz;es ist geschmolzen;smelten
-schneiden;er schneidet;er schnitt;er hat geschnitten;snijden
-schrecken;er schrickt;er schrak;er ist geschrocken;schrikken
-schreiben;er schreibt;er schrieb;er hat geschrieben;schrijven
-schreien;er schreit;er schrie;er hat geschrie(e)n;schreeuwen
-schreiten;er schreitet;er schritt;er ist geschritten;schrijden
-schweigen;er schweigt;er schwieg;er hat geschwiegen;zwijgen
-schwimmen;er schwimmt;er schwamm;er ist geschwommen;zwemmen
-schwören;er schwört;er schwor;er hat geschworen;zweren
-sehen;er sieht;er sah;er hat gesehen;zien
-sein;du bist / er ist;er war;er ist gewesen;zijn
-senden;er sendet;er sendete/sandte;er hat gesandt;zenden
-singen;er singt;er sang;er hat gesungen;zingen
-sinken;er sinkt;er sank;er ist gesunken;zinken
-sitzen;er sitzt;er saß;er hat gesessen;zitten
-sollen;er soll;er sollte;er hat anrufen sollen (selten) / er sollte anrufen (=besser);moeten (hoort te zijn)
-sprechen;er spricht;er sprach;er hat gesprochen;spreken
-springen;er springt;er sprang;er ist gesprungen;springen
-stechen;er sticht;er stach;er hat gestochen;steken
-stehen;er steht;er stand;er hat gestanden;staan
-stehlen;er stiehlt;er stahl;er hat gestohlen;stelen
-steigen;er steigt;er stieg;er ist gestiegen;stijgen
-sterben;er stirbt;er starb;er ist gestorben;sterven
-stinken;er stinkt;er stank;er hat gestunken;stinken
-stoßen;er stößt;er stieß;er hat gestoßen;stoten
-streichen;er streicht;er strich;er hat gestrichen;strelen
-streiten;er streitet;er stritt;er hat gestritten;strijden
-tragen;er trägt;er trug;er hat getragen;dragen
-treffen;er trifft;er traf;er hat getroffen;raken/toevallig ontmoeten
-treiben;er treibt;er trieb;er hat getrieben;drijven
-treten;er tritt;er trat;er ist getreten;stappen
-trinken;er trinkt;er trank;er hat getrunken;drinken
-tun;er tut;er tat;er hat getan;doen
-verbergen;er verbirgt;er verbarg;er hat verborgen;verbergen
-verderben;es verdirbt;er verdarb;es ist verdorben;bederven
-vergessen;er vergisst;er vergaß;er hat vergessen;vergeten
-vergleichen;er vergleicht;er verglich;er hat verglichen;vergelijken
-verlieren;er verliert;er verlor;er hat verloren;verliezen
-vermeiden;er vermeidet;er vermied;er hat vermieden;vermijden
-verschwinden;er verschwindet;er verschwand;er ist verschwunden;verdwijnen
-versprechen;er verspricht;er versprach;er hat versprochen;beloven
-verstehen;er versteht;er verstand;er hat verstanden;begrijpen
-verzeihen;er verzeiht;er verzieh;er hat verziehen;vergeven
-wachsen;er wächst;er wuchs;er ist gewachsen;groeien
-waschen;er wäscht;er wusch;er hat gewaschen;wassen
-weisen;er weist;er wies;er hat gewiesen;aanduiden
-wenden;er wendet;er wandte;er hat gewandt;draaien
-werden;du wirst / er wird;er wurde;er ist geworden;worden
-werfen;er wirft;er warf;er hat geworfen;werpen
-wiegen;er wiegt;er wog;er hat gewogen;wegen
-winden;er windet;er wand;er hat gewunden;(op)wikkelen
-wissen;er weiß;er wusste;er hat gewusst;weten
-wollen;er will;er wollte;er hat abfahren wollen (selten) / er wollte abfahren (=besser);willen
-ziehen;er zieht;er hat gezogen;trekken
-anziehen;er zieht an;er hat angezogen;aantrekken
-umziehen;er zieht um;er hat umgezogen;verhuizen
-zwingen;er zwingt;er zwang;er hat gezwungen;dwingen
+anfangen;fängt an;fing an;hat angefangen;aanvangen
+beginnen;beginnt;begann;hat begonnen;beginnen
+beißen;beißt;biss;hat gebissen;bijten
+biegen;biegt;bog;hat gebogen;buigen
+bieten;bietet;bot;hat geboten;bieden
+bitten;bittet;bat;hat gebeten;bijten
+bleiben;bleibt;blieb;ist geblieben;blijven
+brechen;bricht;brach;hat gebrochen;breken
+brennen;brennt;brannte;hat gebrannt;branden
+bringen;bringt;brachte;hat gebracht;brengen
+denken;denkt;dachte;hat gedacht;denken
+dürfen;darf;durfte;hat mitkommen dürfen (selten);mogen
+essen;isst;aß;hat gegessen;eten
+fahren;fährt;fuhr;ist gefahren;rijden
+fallen;fällt;fiel;ist gefallen;vallen
+fangen;fängt;fing;hat gefangen;vangen
+finden;findet;fand;hat gefunden;vinden
+fliegen;fliegt;flog;ist geflogen;vliegen
+frieren;friert;fror;hat gefroren;vriezen
+geben;gibt;gab;hat gegeben;geven
+gefallen;gefällt;gefiel;hat gefallen;bevallen (iets goed vinden)
+gehen;geht;ging;ist gegangen;gaan
+gelingen;gelingt;gelang;ist gelungen;(in iets) slagen / lukken
+genießen;genießt;genoss;hat genossen;genieten
+geschehen;geschieht;geschah;ist geschehen;gebeuren
+gießen;gießt;goss;hat gegossen;gieten
+greifen;greift;griff;hat gegriffen;grijpen
+haben;hat;hatte;hat gehabt;hebben
+halten;hält;hielt;hat gehalten;stoppen
+hängen;hängt;hing;hat gehangen;hangen
+helfen;hilft;half;hat geholfen;helpen
+kennen;kennt;kannte;hat gekannt;kennen
+kommen;kommt;kam;ist gekommen;komen
+können;kann;konnte;hat singen können (selten);kunnen
+laden;lädt;lud;hat geladen;laden
+lassen;lässt;ließ;hat gelassen;laten
+laufen;läuft;lief;ist gelaufen;lopen
+lesen;liest;las;hat gelesen;lezen
+liegen;liegt;lag;hat gelegen;liggen
+lügen;lügt;log;hat gelogen;liegen
+mögen;mag;mochte;hat keinen Spinat gemocht;lusten / willen / graag hebben
+müssen;muss;musste;hat weggehen müssen (selten);moeten
+nehmen;nimmt;nahm;hat genommen;nemen
+nennen;nennt;nannte;hat genannt;noemen (ww)
+rennen;rennt;rannte;ist gerannt;rennen
+riechen;riecht;roch;hat gerochen;ruiken
+rufen;ruft;rief;hat gerufen;roepen
+scheinen;scheint;schien;hat geschienen;schijnen
+schlafen;schläft;schlief;hat geschlafen;slapen
+schlagen;schlägt;schlug;hat geschlagen;slaan
+schließen;schließt;schloss;hat geschlossen;sluiten
+schneiden;schneidet;schnitt;hat geschnitten;snijden
+schrecken;schrickt;schrak;ist geschrocken;schrikken
+schreiben;schreibt;schrieb;hat geschrieben;schrijven
+schweigen;schweigt;schwieg;hat geschwiegen;zwijgen
+schwimmen;schwimmt;schwamm;ist geschwommen;zwemmen
+sehen;sieht;sah;hat gesehen;zien
+sein;ist;war;ist gewesen;zijn
+singen;singt;sang;hat gesungen;zingen
+sitzen;sitzt;saß;hat gesessen;zitten
+sollen;soll;sollte;hat anrufen sollen (selten);zullen/moeten (hoort te zijn)
+sprechen;spricht;sprach;hat gesprochen;spreken
+springen;springt;sprang;ist gesprungen;springen
+stechen;sticht;stach;hat gestochen;steken
+stehen;steht;stand;hat gestanden;staan
+steigen;steigt;stieg;ist gestiegen;stijgen
+sterben;stirbt;starb;ist gestorben;sterven
+stoßen;stößt;stieß;hat gestoßen;stoten
+tragen;trägt;trug;hat getragen;dragen
+treffen;trifft;traf;hat getroffen;ontmoeten
+treten;tritt;trat;ist getreten;stappen
+trinken;trinkt;trank;hat getrunken;drinken
+tun;tut;tat;hat getan;doen
+vergessen;vergisst;vergaß;hat vergessen;vergeten
+verlieren;verliert;verlor;hat verloren;verliezen
+waschen;wäscht;wusch;hat gewaschen;wassen
+werden;wird;wurde;ist geworden;worden
+werfen;wirft;warf;hat geworfen;werpen
+wissen;weiß;wusste;hat gewusst;weten
+wollen;will;wollte;hat abfahren wollen (selten);willen
+ziehen;zieht;zog;hat gezogen;trekken
+anziehen;zieht an;zog an;hat angezogen;aantrekken
+umziehen;zieht um;zog um;hat umgezogen;verhuizen
