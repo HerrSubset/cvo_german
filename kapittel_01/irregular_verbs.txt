@@ -80,4 +80,4 @@ wissen;weiß;wusste;hat gewusst;weten
 wollen;will;wollte;hat abfahren wollen (selten);willen
 ziehen;zieht;zog;hat gezogen;trekken
 anziehen;zieht an;zog an;hat angezogen;aantrekken
-umziehen;zieht um;zog um;hat umgezogen;verhuizen
+umziehen;zieht um;zog um;ist umgezogen;verhuizen

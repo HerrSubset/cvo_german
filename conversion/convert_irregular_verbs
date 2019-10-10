@@ -1,0 +1,26 @@
+#!/bin/env bash
+
+if [[ ! -r $1 ]]; then
+    echo "Usage: convert_nouns <noun_file>"
+    exit 1
+fi
+
+input_filepath=$1
+outputfile=$2
+
+# Generate Präsens cards
+cat "$input_filepath" | awk -F ';' -vOFS='' '\
+{ print  $1, " Präsens: er/es {{c1::", $2, "}}" }
+'\ > "$outputfile"
+
+
+# Generate Präteritum cards
+cat "$input_filepath" | awk -F ';' -vOFS='' '\
+{ print  $1, " Präteritum: er/es {{c1::", $3, "}}" }
+'\ >> "$outputfile"
+
+
+# Generate Perfekt cards
+cat "$input_filepath" | awk -F ';' -vOFS='' '\
+{ print  $1, " Perfekt: er/es {{c1::", $4, "}}" }
+'\ >> "$outputfile"
