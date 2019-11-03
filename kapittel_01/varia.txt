@@ -1,21 +1,8 @@
-Termine vereinbaren;afspraken vastleggen
-wann?;wanneer?
-was?;wat?
-wer?;wie?
-wo?;waar?
-woher?;van waar?
-ledig;ongehuwd
-verwitwet;weduwe/weduwenaar (adj)
-damalig;toenmalig
-verheiratet;getrouwd
-kompliziert;ingewikkeld
-basteln;knutselen
-erklären;verklaren
-studieren;studeren (aan de universiteit)
-lernen;leren (niet aan de universiteit)
-einwandern;immigreren
-auswandern;emigreren
 anfangen;aanvangen
+anziehen;aantrekken
+Asyl beantragen;asiel aanvragen
+auswandern;emigreren
+basteln;knutselen
 beginnen;beginnen
 beißen;bijten
 biegen;buigen
@@ -25,9 +12,15 @@ bleiben;blijven
 brechen;breken
 brennen;branden
 bringen;brengen
+damalig;toenmalig
+damit bin ich einverstanden;daarmee ben ik akkoord
+dem stimme ich zu;ik ben het ermee eens
 denken;denken
 dürfen;mogen
+einwandern;immigreren
+erklären;verklaren
 essen;eten
+etwas vor haben;een plan hebben
 fahren;rijden
 fallen;vallen
 fangen;vangen
@@ -39,19 +32,24 @@ gefallen;bevallen (iets goed vinden)
 gehen;gaan
 gelingen;(in iets) slagen / lukken
 genießen;genieten
+geraten;geraken/terecht komen
 geschehen;gebeuren
 gießen;gieten
 greifen;grijpen
 haben;hebben
 halten;stoppen
 hängen;hangen
+hässlich;lelijk
 helfen;helpen
 kennen;kennen
 kommen;komen
+kompliziert;ingewikkeld
 können;kunnen
 laden;laden
 lassen;laten
 laufen;lopen
+ledig;ongehuwd
+lernen;leren (niet aan de universiteit)
 lesen;lezen
 liegen;liggen
 lügen;liegen
@@ -83,26 +81,28 @@ stehen;staan
 steigen;stijgen
 sterben;sterven
 stoßen;stoten
+studieren;studeren (aan de universiteit)
+Termine vereinbaren;afspraken vastleggen
 tragen;dragen
 treffen;ontmoeten
 treten;stappen
 trinken;drinken
 tun;doen
+umziehen;verhuizen
+unbekümmert;zorgeloos/onbekommerd
 vergessen;vergeten
+verheiratet;getrouwd
 verlieren;verliezen
+verwandeln;van gedaante veranderen
+verwitwet;weduwe/weduwenaar (adj)
+wann?;wanneer?
 waschen;wassen
+was?;wat?
 werden;worden
 werfen;werpen
+wer?;wie?
 wissen;weten
+woher?;van waar?
 wollen;willen
+wo?;waar?
 ziehen;trekken
-anziehen;aantrekken
-umziehen;verhuizen
-verwandeln;van gedaante veranderen
-geraten;geraken/terecht komen
-unbekümmert;zorgeloos/onbekommerd
-damit bin ich einverstanden;daarmee ben ik akkoord
-dem stimme ich zu;ik ben het ermee eens
-hässlich;lelijk
-etwas vor haben;een plan hebben
-Asyl beantragen;asiel aanvragen

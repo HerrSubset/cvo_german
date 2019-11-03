@@ -1,71 +1,71 @@
-Tochter;die;Töchter;de dochter
-Brief;der;Briefe;de brief
-Fest;das;Feste;het feest
-Steckbrief;der;Steckbriefe;het profiel/portret (document)
-Erfinderin;die;Erfinderinnen;uitvindster
-Mehrwegverpackung;die;Mehrwegverpackungen;de herbruikbare verpakking
-Einwegverpackung;die;Einwegverpackungen;de wegwerpverpakking
-Mitglied;das;Mitglieder;het (club)lid
-Verein;der;Vereine;de club
-Kurs;der;Kurse;de cursus
-Klima;das;Klimata/Klimas;het klimaat
-Zelt;das;Zelte;de tent
-Bruchzahl;die;Bruchzahlen;de (wiskundige) breuk
-Pferderennen;das;Pferderennen;de paardenrennen
-Name;der;Namen;de naam
-Geschwister;das;Geschwister;broers en zussen
-Familie;die;Familien;de familie
-Haus;das;Häuser;het huis
-Wohnung;die;Wohnungen;het appartement
-Freizeit;die;Freizeiten;de vrije tijd
-See;der;Seen;het meer
-Meer;das;Meere;de zee
-Gesicht;das;Gesichter;het gezicht
-Laden;der;Läden;de winkel
-Blatt;das;Blätter;het (boom)blad
-Orange;die;Orangen;de appelsien
-Baum;der;Bäume;de boom
-Bart;der;Bärte;de baard
-Verwandte;die;Verwandten;het familielid
-Ausbildung;die;Ausbildungen;de opleiding
-Bude;die;Buden;het (studenten)kot
-Miete;die;Mieten;de huur
-Behörde;die;Behörden;de autoriteit/het gezag
-Zukunft;die;Zukünfte;de toekomst
-Beruf;der;Berufe;het beroep
-Feuerwehr;die;Feuerwehren;de brandweer
-Sohn;der;Söhne;de zoon
-Kind;das;Kinder;het kind
-Wochenende;das;Wochenenden;het weekend
+Akzent;der;die Akzente;het accent
+Anwalt;der;Anwälte;de advocaat
+Armee;die;Armeen;het leger
 Arzt;der;Ärzte;de dokter
-Trennung;die;Trennungen;de scheiding
-Verhältnis;das;Verhältnisse;de verhouding
+Asyl;das;Asyle;het asiel
+Ausbildung;die;Ausbildungen;de opleiding
+Bart;der;Bärte;de baard
+Baum;der;Bäume;de boom
+Behinderte;die;Behinderte;de gehandicapte
+Behörde;die;Behörden;de autoriteit/het gezag
+Beitrag;der;Beiträge;de bijdrage/de reportage
+Beruf;der;Berufe;het beroep
+Blatt;das;Blätter;het (boom)blad
+Brief;der;Briefe;de brief
+Bruchzahl;die;Bruchzahlen;de (wiskundige) breuk
+Bude;die;Buden;het (studenten)kot
 Diplom;das;Diplome;het diploma
+Einwegverpackung;die;Einwegverpackungen;de wegwerpverpakking
+Einzelfall;der;Einzelfälle;het opzichzelf staand geval
+Erfinderin;die;Erfinderinnen;uitvindster
+Fahrstuhl;der;Fahrstühle;de lift
+Familie;die;Familien;de familie
+Fest;das;Feste;het feest
+Feuerwehr;die;Feuerwehren;de brandweer
+Freizeit;die;Freizeiten;de vrije tijd
+Garten;der;Gärten;de tuin
+Geschwister;das;Geschwister;broers en zussen
+Gesicht;das;Gesichter;het gezicht
+Haus;das;Häuser;het huis
+Kind;das;Kinder;het kind
+Klima;das;Klimata/Klimas;het klimaat
+Krieg;der;Kriege;de oorlog
+Kunde;der;Kunden;de klant
+Kurs;der;Kurse;de cursus
+Laden;der;Läden;de winkel
 Lehrer;der;Lehrer;de leraar
 Lehrerin;die;Lehrerinnen;de lerares
-Tageszeitung;die;Tageszeitungen;het dagblad
-Garten;der;Gärten;de tuin
-Kunde;der;Kunden;de klant
-Termin;der;Termine;de afspraak
-Behinderte;die;Behinderte;de gehandicapte
-Motorrad;das;Motorräder;de motorfiets
-Sekretärin;die;Sekretärinnen;de secretaresse
-Anwalt;der;Anwälte;de advocaat
-Zeitschrift;die;Zeitschriften;het tijdschrift
-Armee;die;Armeen;het leger
-Fahrstuhl;der;Fahrstühle;de lift
-Straßenbahn;die;Straßenbahnen;de tram
-Vorlesung;die;Vorlesungen;het college (les aan de uni)
-Seminar;das;Seminare;het seminarie
-Krieg;der;Kriege;de oorlog
-Strom;der;Ströme;de stroom
-Ufer;das;Ufer;de oever
 Leiche;die;Leichen;het lijk
-Einzelfall;der;Einzelfälle;het opzichzelf staand geval
-Stil;der;Stile;de stijl
-Beitrag;der;Beiträge;de bijdrage/de reportage
-Nebel;der;Nebel;de nevel
-Akzent;der;die Akzente;het accent
-Pleite;die;Pleiten;het bankroet/failliet
 Leidenschaft;die;Leidenschaften;de hartstocht
-Asyl;das;Asyle;het asiel
+Meer;das;Meere;de zee
+Mehrwegverpackung;die;Mehrwegverpackungen;de herbruikbare verpakking
+Miete;die;Mieten;de huur
+Mitglied;das;Mitglieder;het (club)lid
+Motorrad;das;Motorräder;de motorfiets
+Name;der;Namen;de naam
+Nebel;der;Nebel;de nevel
+Orange;die;Orangen;de appelsien
+Pferderennen;das;Pferderennen;de paardenrennen
+Pleite;die;Pleiten;het bankroet/failliet
+See;der;Seen;het meer
+Sekretärin;die;Sekretärinnen;de secretaresse
+Seminar;das;Seminare;het seminarie
+Sohn;der;Söhne;de zoon
+Steckbrief;der;Steckbriefe;het profiel/portret (document)
+Stil;der;Stile;de stijl
+Straßenbahn;die;Straßenbahnen;de tram
+Strom;der;Ströme;de stroom
+Tageszeitung;die;Tageszeitungen;het dagblad
+Termin;der;Termine;de afspraak
+Tochter;die;Töchter;de dochter
+Trennung;die;Trennungen;de scheiding
+Ufer;das;Ufer;de oever
+Verein;der;Vereine;de club
+Verhältnis;das;Verhältnisse;de verhouding
+Verwandte;die;Verwandten;het familielid
+Vorlesung;die;Vorlesungen;het college (les aan de uni)
+Wochenende;das;Wochenenden;het weekend
+Wohnung;die;Wohnungen;het appartement
+Zeitschrift;die;Zeitschriften;het tijdschrift
+Zelt;das;Zelte;de tent
+Zukunft;die;Zukünfte;de toekomst
