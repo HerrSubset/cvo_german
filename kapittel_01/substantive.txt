@@ -1,9 +1,12 @@
-Akzent;der;die Akzente;het accent
+Akzent;der;Akzente;het accent
+Altersarmut;die;/;de ouderdomsarmoede
 Anwalt;der;Anwälte;de advocaat
 Armee;die;Armeen;het leger
 Arzt;der;Ärzte;de dokter
 Asyl;das;Asyle;het asiel
+Auktion;die;Auktionen;de veiling
 Ausbildung;die;Ausbildungen;de opleiding
+Ausstellung;die;Ausstellungen;de tentoonstelling
 Bart;der;Bärte;de baard
 Baum;der;Bäume;de boom
 Behinderte;die;Behinderte;de gehandicapte
@@ -11,7 +14,11 @@ Behörde;die;Behörden;de autoriteit/het gezag
 Beitrag;der;Beiträge;de bijdrage/de reportage
 Beruf;der;Berufe;het beroep
 Blatt;das;Blätter;het (boom)blad
+Blitzableiter;der;Blitzableiter;de bliksemafleider
+Blitz;der;Blitze;de bliksem(straal)
+Blitzschlag;der;Blitzschläge;de blikseminslag
 Brief;der;Briefe;de brief
+Brocken;der;Brocken;de brok
 Bruchzahl;die;Bruchzahlen;de (wiskundige) breuk
 Bude;die;Buden;het (studenten)kot
 Diplom;das;Diplome;het diploma
@@ -20,52 +27,88 @@ Einzelfall;der;Einzelfälle;het opzichzelf staand geval
 Erfinderin;die;Erfinderinnen;uitvindster
 Fahrstuhl;der;Fahrstühle;de lift
 Familie;die;Familien;de familie
+Farbe;die;Farben;de kleur/verf
 Fest;das;Feste;het feest
 Feuerwehr;die;Feuerwehren;de brandweer
+Fließbandarbeit;die;Fließbandarbeiten;het bandwerk
+Fortschritt;der;Fortschritte;de vordering/vooruitgang
 Freizeit;die;Freizeiten;de vrije tijd
+Frist;die;Fristen;de termijn/het uitstel
+Frosch;der;Frösche;de kikker
+Führung;die;Führungen;de leiding/de rondleiding
 Garten;der;Gärten;de tuin
+Gemälde;das;Gemälde;het schilderij
+Gerichtsmediziner;der;Gerichtsmediziner;de wetsdokter
 Geschwister;das;Geschwister;broers en zussen
 Gesicht;das;Gesichter;het gezicht
+Gewerkschaft;die;Gewerkschaften;de vakbond
 Haus;das;Häuser;het huis
+Hochzeit;die;Hochzeiten;de bruiloft/het huwelijk
 Kind;das;Kinder;het kind
 Klima;das;Klimata/Klimas;het klimaat
+Konsequenz;die;Konsequenzen;de consequentie
 Krieg;der;Kriege;de oorlog
 Kunde;der;Kunden;de klant
+Kunstversteigerung;die;Kunstversteigerungen;de kunstveiling
 Kurs;der;Kurse;de cursus
 Laden;der;Läden;de winkel
 Lehrer;der;Lehrer;de leraar
 Lehrerin;die;Lehrerinnen;de lerares
 Leiche;die;Leichen;het lijk
 Leidenschaft;die;Leidenschaften;de hartstocht
+Literatur;die;Literaturen;de literatuur
 Meer;das;Meere;de zee
 Mehrwegverpackung;die;Mehrwegverpackungen;de herbruikbare verpakking
 Miete;die;Mieten;de huur
 Mitglied;das;Mitglieder;het (club)lid
+Mittelalter;das;/;de middeleeuwen
 Motorrad;das;Motorräder;de motorfiets
 Name;der;Namen;de naam
 Nebel;der;Nebel;de nevel
+Nordhalbkugel;die;Nordhalbkugeln;het noordelijk haflrond
 Orange;die;Orangen;de appelsien
 Pferderennen;das;Pferderennen;de paardenrennen
 Pleite;die;Pleiten;het bankroet/failliet
+Preisträger;der;Preisträger;de prijswinnaar
+Publikum;das;Publika;het publiek
+Schachtel;die;Schachteln;de doos
+Schauspieler;der;Schauspieler;de acteur
+Schüssel;die;Schüsseln;de schotel/schaal
+Schwan;der;Schwäne;de zwaan
 See;der;Seen;het meer
 Sekretärin;die;Sekretärinnen;de secretaresse
 Seminar;das;Seminare;het seminarie
 Sohn;der;Söhne;de zoon
+Stab;der;Stäbe;de staf/de stok
 Steckbrief;der;Steckbriefe;het profiel/portret (document)
+Stelle;die;Stellen;de plaats/de baan
 Stil;der;Stile;de stijl
 Straßenbahn;die;Straßenbahnen;de tram
 Strom;der;Ströme;de stroom
+Südhalbkugel;die;Südhalbkugeln;het zuidelijk halfrond
 Tageszeitung;die;Tageszeitungen;het dagblad
+Tätigkeit;die;Tätigkeiten;het werk/de bezigheid
 Termin;der;Termine;de afspraak
 Tochter;die;Töchter;de dochter
 Trennung;die;Trennungen;de scheiding
+Turm;der;Türme;de toren
 Ufer;das;Ufer;de oever
+Uhr;die;Uhren;het uurwerk/de horloge
+Uhrzeiger;der;Uhrzeiger;de wijzer (van een horloge)
+Unfall;der;Unfälle;het ongeval
+Ursache;die;Ursachen;de oorzaak
 Verein;der;Vereine;de club
 Verhältnis;das;Verhältnisse;de verhouding
+Vertrag;der;Verträge;de overeenkomst/het contract
 Verwandte;die;Verwandten;het familielid
+Voranmeldung;die;Voranmeldungen;de reservering/de afspraak
 Vorlesung;die;Vorlesungen;het college (les aan de uni)
+Wahl;die;Wahlen;de keuze/de verkiezingen/de stemming
+Werbespot;der;Werbespots;de reclamespot
+Werbung;die;Werbungen;de reclame
 Wochenende;das;Wochenenden;het weekend
 Wohnung;die;Wohnungen;het appartement
 Zeitschrift;die;Zeitschriften;het tijdschrift
+Zeitumstellung;die;Zeitumstellungen;de tijdsverandering
 Zelt;das;Zelte;de tent
 Zukunft;die;Zukünfte;de toekomst

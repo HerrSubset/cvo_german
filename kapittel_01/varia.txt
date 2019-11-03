@@ -1,13 +1,17 @@
 anfangen;aanvangen
 anziehen;aantrekken
 Asyl beantragen;asiel aanvragen
+auftreiben;opjagen
+ausgefallen;apart/origineel
 auswandern;emigreren
 basteln;knutselen
+befristed;met een vaste termijn
 beginnen;beginnen
 beißen;bijten
 biegen;buigen
 bieten;bieden
 bitten;bijten
+blass;bleek
 bleiben;blijven
 brechen;breken
 brennen;branden
@@ -16,24 +20,36 @@ damalig;toenmalig
 damit bin ich einverstanden;daarmee ben ik akkoord
 dem stimme ich zu;ik ben het ermee eens
 denken;denken
+drohen;dreigen
 dürfen;mogen
+ein Termin einhalten;
+ein Termin verschieben;een afspraak verplaatsen
 einwandern;immigreren
+elektrifizieren;elektrificeren
 erklären;verklaren
+erleiden;ondergaan/(nederlaag/pijn) lijden
+es geht um ...;het gaat over ...
+es kommt drauf an;het komt erop aan
 essen;eten
+etwas gründen;iets oprichten
 etwas vor haben;een plan hebben
 fahren;rijden
 fallen;vallen
 fangen;vangen
 finden;vinden
 fliegen;vliegen
+folgen;volgen
 frieren;vriezen
 geben;geven
 gefallen;bevallen (iets goed vinden)
+gegebenenfalls;zo nodig/eventueel
 gehen;gaan
+gehetzt;gejaagd
 gelingen;(in iets) slagen / lukken
 genießen;genieten
 geraten;geraken/terecht komen
 geschehen;gebeuren
+ggf.;gegebenenfalls
 gießen;gieten
 greifen;grijpen
 haben;hebben
@@ -41,10 +57,14 @@ halten;stoppen
 hängen;hangen
 hässlich;lelijk
 helfen;helpen
+im Uhrzeigersinn;met de wijzers van de klok mee
+jeweils;telkens/steeds/op een gegeven ogenblik
 kennen;kennen
 kommen;komen
 kompliziert;ingewikkeld
 können;kunnen
+kündigen;opzeggen/ontslaan
+künftig;toekomstig/in het vervolg
 laden;laden
 lassen;laten
 laufen;lopen
@@ -53,10 +73,15 @@ lernen;leren (niet aan de universiteit)
 lesen;lezen
 liegen;liggen
 lügen;liegen
+mahlen;malen
+malen;schilderen
 mögen;lusten / willen / graag hebben
 müssen;moeten
 nehmen;nemen
 nennen;noemen (ww)
+pinkeln;plassen
+prägen;indrukken/karakteriseren
+rechtzeitig;op tijd
 rennen;rennen
 riechen;ruiken
 rufen;roepen
@@ -71,10 +96,13 @@ schweigen;zwijgen
 schwimmen;zwemmen
 sehen;zien
 sein;zijn
+sich vorsorgen;zich indekken/voorzieningen treffen
 singen;zingen
 sitzen;zitten
 sollen;zullen/moeten (hoort te zijn)
+spießen;spietsen/opprikken
 sprechen;spreken
+sprechen über das für und gegen;over pro en contra spreken
 springen;springen
 stechen;steken
 stehen;staan
@@ -88,15 +116,21 @@ treffen;ontmoeten
 treten;stappen
 trinken;drinken
 tun;doen
+umsonst;gratis/tevergeefs
 umziehen;verhuizen
+unbefristed;van onbepaalde duur
 unbekümmert;zorgeloos/onbekommerd
+verabreden;afspreken
 vergessen;vergeten
 verheiratet;getrouwd
 verlieren;verliezen
+verschwinden;verdwijnen
 verwandeln;van gedaante veranderen
 verwitwet;weduwe/weduwenaar (adj)
+wählen;kiezen
 wann?;wanneer?
 waschen;wassen
+was halten Sie von ...;wat denkt u van ...
 was?;wat?
 werden;worden
 werfen;werpen
@@ -105,4 +139,5 @@ wissen;weten
 woher?;van waar?
 wollen;willen
 wo?;waar?
+zeitraubend;tijdrovend
 ziehen;trekken
