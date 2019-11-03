@@ -53,3 +53,19 @@ Sekretärin;die;Sekretärinnen;de secretaresse
 Anwalt;der;Anwälte;de advocaat
 Zeitschrift;die;Zeitschriften;het tijdschrift
 Armee;die;Armeen;het leger
+Fahrstuhl;der;Fahrstühle;de lift
+Straßenbahn;die;Straßenbahnen;de tram
+Vorlesung;die;Vorlesungen;het college (les aan de uni)
+Seminar;das;Seminare;het seminarie
+Krieg;der;Kriege;de oorlog
+Strom;der;Ströme;de stroom
+Ufer;das;Ufer;de oever
+Leiche;die;Leichen;het lijk
+Einzelfall;der;Einzelfälle;het opzichzelf staand geval
+Stil;der;Stile;de stijl
+Beitrag;der;Beiträge;de bijdrage/de reportage
+Nebel;der;Nebel;de nevel
+Akzent;der;die Akzente;het accent
+Pleite;die;Pleiten;het bankroet/failliet
+Leidenschaft;die;Leidenschaften;de hartstocht
+Asyl;das;Asyle;het asiel

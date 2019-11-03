@@ -98,3 +98,11 @@ wollen;willen
 ziehen;trekken
 anziehen;aantrekken
 umziehen;verhuizen
+verwandeln;van gedaante veranderen
+geraten;geraken/terecht komen
+unbekümmert;zorgeloos/onbekommerd
+damit bin ich einverstanden;daarmee ben ik akkoord
+dem stimme ich zu;ik ben het ermee eens
+hässlich;lelijk
+etwas vor haben;een plan hebben
+Asyl beantragen;asiel aanvragen
