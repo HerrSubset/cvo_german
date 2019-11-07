@@ -112,3 +112,35 @@ Zeitschrift;die;Zeitschriften;het tijdschrift
 Zeitumstellung;die;Zeitumstellungen;de tijdsverandering
 Zelt;das;Zelte;de tent
 Zukunft;die;Zukünfte;de toekomst
+Verkehrsfunk;der;/;verkeersradio
+Kollege;der;Kollegen;de collega
+Enkel;der;Enkel;het kleinkind
+Lösung;die;Lösungen;de oplossing
+Gastgeber;der;Gastgeber;de gastheer/de thuisclub
+Wirt;der;Wirte;de gastheer/de café/hotelhouder
+Lärm;der;/;het lawaai
+Stimme;die;Stimmen;de stem
+Friseur;der;Firseure;de kapper
+Krankengymnast;der;Krankengymnasten;de kinesist
+Kassiererin;die;Kassiererinnen;de kassierster
+Bäuerin;die;Bäuerinnen;de boerin
+Raumpflegerin;die;de werkster/interieurverzorgster
+Dachs;der;Dachse;de das (dier)
+Hügel;der;Hügel;de heuvel/de hoop
+Mond;der;Monde;de maan
+Sonne;die;Sonnen;de zon
+Kamin;der;Kamine;de schoorsteen/de open haard
+Schaukelstuhl;der;Schaukelstühle;de schommelstoel
+Körper;der;Körper;het lichaam
+Maulwurf;der;Maulwürfe;de mol
+Fuchs;der;Füchse;de vos
+Kaninchen;das;Kaninchen;het konijn
+Grafik;die;Grafiken;de grafiek/het grafisch kunstwerk
+Erstaufführung;die;Erstaufführungen;de première
+Skulptur;die;Skulpturen;de sculptuur
+Absicht;die;Absichten;de bedoeling/het plan
+Bereich;der;Bereiche;het gebied/het bereik
+Cafeteria;die;Cafeterias;de cafetaria
+Ermäßigung;die;Ermäßigungen;de korting
+Auskunft;die;Auskünfte;de inlichtingen/de informatie
+Eröffnung;die;Eröffnungen;de eerste opening
