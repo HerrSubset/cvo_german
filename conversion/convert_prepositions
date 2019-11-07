@@ -1,0 +1,14 @@
+#!/bin/env bash
+
+if [[ ! -r $1 ]]; then
+    echo "Usage: convert_nouns <noun_file>"
+    exit 1
+fi
+
+input_filepath=$1
+outputfile=$2
+
+# Generate cards for prepositions
+cat "$input_filepath"  | awk -F ';' -vOFS='' '\
+{ print $1, " {{c1::", $2, "}} ", $3 } 
+'\ >> "$outputfile"

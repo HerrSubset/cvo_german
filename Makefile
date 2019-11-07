@@ -1,5 +1,5 @@
 INTERMEDIATE_BASIC_FILES=noun_cards.txt varia_cards.txt 
-INTERMEDIATE_CLOZE_FILES=verb_conjugation_cards.txt
+INTERMEDIATE_CLOZE_FILES=verb_conjugation_cards.txt preposition_cards.txt
 
 all: cards.txt cloze_cards.txt
 
@@ -12,6 +12,9 @@ noun_cards.txt: kapittel_01/substantive.txt
 
 varia_cards.txt: kapittel_01/varia.txt
 	./conversion/convert_varia $< $@
+
+preposition_cards.txt: kapittel_01/prepositions.txt
+	./conversion/convert_prepositions $< $@
 
 #verb_cards.txt: kapittel_01/verben.txt
 #	./conversion/convert_verbs $< $@
