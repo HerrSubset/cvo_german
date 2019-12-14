@@ -70,3 +70,7 @@ Sich;über;das Freizeitangebot unterhalten.
 ;Um;viele Euro steigen.
 Sich noch;an;den ersten Termin erinnern.
 ;Bei;einer Frima wie Krupp arbeiten.
+Sich;mit;seinem Bruder über das spiel streiten.
+Sich mit seinem Bruder;über;das spiel streiten.
+Sie hat sich;um;den Job in der Gallerie beworben
+Petra hat sich;über;den Abschied gefreut.
