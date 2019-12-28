@@ -144,3 +144,18 @@ Cafeteria;die;Cafeterias;de cafetaria
 Ermäßigung;die;Ermäßigungen;de korting
 Auskunft;die;Auskünfte;de inlichtingen/de informatie
 Eröffnung;die;Eröffnungen;de eerste opening
+Stau;der;Staue;de file
+E-Mail;die;E-Mails;de e-mail
+Besprechung;die;Besprechungen;de bespreking
+Idee;die;Ideen;het idee
+Museumsführer;der;Museumsführer;de museumgids
+Künstler;der;Künstler;de kunstenaar
+Maler;der;Maler;de schilder
+Bildhauer;der;Bildhauer;de beeldhouwer
+Nachfrage;die;Nachfragen;de vraag/het verzoek om inlichtingen
+Veranstaltung;die;Veranstaltungen;de organisatie/de manifestatie
+Bühne;die;Bühnen;het podium
+Musiker;der;Musikers;de beroepsmusikant
+Musikant;der;Musikanten;de musikant
+Auftritt;der;Auftritte;het optreden
+Einladung;die;Einladungen;de uitnodiging

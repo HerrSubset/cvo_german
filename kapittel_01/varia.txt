@@ -141,3 +141,26 @@ wollen;willen
 wo?;waar?
 zeitraubend;tijdrovend
 ziehen;trekken
+Ich bin von Beruf...;Mijn beroep is...
+aufstehen;opstaan
+an Besprechungen teilnehmen;aan besprekingen deelnemen
+Konzepte entwickeln;concepten ontwikkelen
+Ideen sammeln;ideeën verzamelen
+an einer Diplomarbeit schreiben;een thesis schrijven
+Im Internet surfen;op het internet surfen
+sich mit Freunden treffen;vrienden ontmoeten
+pünktlich;stipt op tijd
+Eine Arbeit rechtzeitig abgeben;een taak op tijd afgeven
+Alles läuft nach Plan;alles loopt naar plan
+Verspätung haben;vertraging hebben
+Am beliebtesten sind ...;de meest geliefde zijn ...
+die Dauerausstellung;de permanente tentoonstelling
+die Sonderausstellung;de tijdelijke tentoonstelling
+eine Ausstellung findet statt;een tentoonstelling vindt plaats
+ein Künstler präsentiert seine Bilder;een kunstenaar stelt zijn beelden ten toon
+Das Bild regt meine Fantasie an;Het beeld prikkelt mijn fantasie
+In dem Bild steckt viel Ruhe;in dat beeld zit veel rust
+künstlerische Freiheit;artistieke vrijheid
+Der Künstlername;de artiestennaam
+applaudieren;applaudiseren
+großen Beifall haben;veel bijval hebben
