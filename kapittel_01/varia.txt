@@ -164,3 +164,66 @@ künstlerische Freiheit;artistieke vrijheid
 Der Künstlername;de artiestennaam
 applaudieren;applaudiseren
 großen Beifall haben;veel bijval hebben
+In meiner Freizeit lese ich gern;In mijn vrije tijd lees ik graag.
+Der Wenigleser;iemand die weinig leest
+Der Normalleser;iemand die regelmatig leest
+Bücher verschlingen;boeken verslinden
+Bücher ausleihen;boeken lenen
+Bücher verschenken;boeken cadeau doen
+Bücher auswählen;boeken kiezen
+ein geschichtliches Ereignis;een historische gebeurtenis
+eine große Rolle spielen;een grote rol spelen
+es vollzogen sich ...;er voltrokken zich...
+stattfinden;plaatsvinden
+am Computer arbeiten;op de computer werken
+den PC ein-/ausschalten;de PC aan-/uit-zetten
+der Computer ist abgestürzt;de computer is gecrashed
+der Text am Bildschirm lesen;de tekst op de monitor lezen
+auf etwas (Akk.) klicken;op iets klikken
+etwas anklicken;iets aanklikken
+Virusschutzprogramm;het anti-virusprogramma
+EDV;Elektronische Datenverarbeitung (Abk.)
+Daten eingeben;data ingeven
+Daten speicheren;bestanden opslaan
+Daten löschen;bestanden verwijderen
+Daten kopieren;bestanden kopiëren
+Daten ausschneiden und einfügen;bestanden knippen en plakken
+Daten abrufen;bestanden opvragen
+Daten schützen;bestanden beschermen
+Vor PC-Viren warnen;voor PC-virussen waarschuwen
+ins Internet gehen;op het internet gaan
+im Internet surfen;op het internet surfen
+aus dem Internet herunterladen;van het Internet downloaden
+eine Mail senden;een email sturen
+eine Mail erhalten;een email krijgen
+eine Mail lesen;een email lezen
+eine Mail weiterleiten;een email forwarden
+eine Mail beantworten;een email beantwoorden
+eine Mail löschen;een email verwijderen
+Spam-Mail;spam-mail
+der Akku meines Handys ist leer/voll;de batterij van mijn GSM is leeg/vol
+eine Nachricht abfragen;een bericht opvragen
+ich kann nicht auf mein Handy verzichten;ik kan geen afstand doen van mijn GSM
+simsen;een SMS sturen
+ich sehe täglich fern;ik kijk elke dag TV
+zappen;zappen
+leiser stellen;stiller zetten
+lauter stellen;luider zetten
+lustige Sendungen;leuke programma's
+seriöse Sendungen;serieuze programma's
+am liebsten Filme sehen;het liefste films zien
+es gibt eienen Spielfilm im Fernsehen;er is een film op TV
+ich sehe mir den Film an;ik kijk naar de film
+wovon handelt der Film?;waarover gaat de film?
+die Szene handelt von einem Mörder;de scene gaat over een moordenaar
+das Fernsehprogramm;het TV-programma
+die Nachrichten;de berichten
+die Sportsendung;de sportuitzending
+Der Dokumentarfilm;de documentaire
+Der Naturfilm;de natuurfilm
+Die Talkshow;de talkshow
+Der Zeichentrickfilm;de tekenfilm
+Die Sendezeit;de zendtijd
+Filme werden synchronisiert;films worden ondertitelt
+Der Marktanteil;het marktaandeel
+Die Sehgewohnigkeiten;de kijkgewoontes

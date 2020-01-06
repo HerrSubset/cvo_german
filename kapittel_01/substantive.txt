@@ -159,3 +159,54 @@ Musiker;der;Musikers;de beroepsmusikant
 Musikant;der;Musikanten;de musikant
 Auftritt;der;Auftritte;het optreden
 Einladung;die;Einladungen;de uitnodiging
+Bücherwurm;der;Bücherwürmer;de boekenworm
+Klassiker;der;Klassiker;de klassieker
+Krimi;der;Krimis;de detectiveroman/film
+Buchmesse;die;Buchmessen;de boekenbeurs
+Ereignis;das;Ereignisse;de gebeurtenis/het voorval
+Computer;der;Computer;de computer
+PC;der;PCs;de PC
+Laptop;der;Laptops;de laptop
+Drucker;der;Drucker;de printer
+Bildschirm;der;Bildschirme;de monitor
+Tastatur;die;Tastaturen;het klavier
+Entferntaste;die;Entferntasten;de delete-knop
+Maus;die;Mäuse;de muis
+Festplatte;die;Festplatten;de harde schijf
+USB-Stick;der;USB-Sticks;de USB sticks
+Einschaltknopf;der;Einschaltknöpfe
+Steckdose;die;Steckdosen;de stekkerdoos
+USB-Anschluss;der;USB-Anschlüsse;de USB-aansluiting
+Verbindungskabel;das;Verbindungskabel;de verbindingskabel
+Lautsprecher;der;Lautsprecher;de luidspreker
+DVD;die;DVDs;de DVD
+DVD-Laufwerk;das;DVD-Laufwerke;de DVD-speler
+Software;die;Softwares;de software
+Programm;das;Programme;het programma
+Datei;die;Dateien;het bestand
+Internet;das;/;het internet
+Faxgerät;das;Faxgeräte;de faxmachine
+Fax;das;Faxe;de fax
+Kopierer;der;Kopierer;de kopiëermachine
+Original;das;Originale;het origineel
+Telefon;das;Telefone;de telefoon
+Handy;das;Handys;de GSM
+Akku;der;Akkus;de accu
+Anrufbeantworter;der;Anrufbeantworter;het antwoordapparaat
+Nachricht;die;Nachrichten;het bericht
+SMS;die;SMS;de SMS
+Radio;das;Radios;de radio
+Fernseher;der;Fernseher;de TV
+Fernbedienung;die;Fernbedienungen;de afstandsbediening
+Zuschauer;der;Zuschauer;de toeschouwer
+Fernsehangebot;das;Fernsehangebote;het TV-aanbod
+Spielfilm;der;Spielfilme;de speelfilm
+Quizshow;die;Quizshows;de quizshow
+Serie;die;Serien;de serie
+Fernsehsendung;die;Fernsehsendungen;de tv-uitzending
+Untertitel;der;Untertitel;de ondertitel
+Fernsehgebühr;die;Fernsehgebühren;de omroepbijdrage
+Einschaltquote;die;Einschaltquoten;de kijkdichtheid
+Zielgruppe;die;Zielgruppen;de doelgroep
+Programmgestalter;der;Programmgestalter;de programmaontwerper
+Fernsehkanal;der;Fernsehkanäle;het tv-kanaal
