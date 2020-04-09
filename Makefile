@@ -7,23 +7,23 @@ all: cards.txt cloze_cards.txt
 cards.txt: $(INTERMEDIATE_BASIC_FILES)
 	cat $(INTERMEDIATE_BASIC_FILES) > cards.txt
 
-noun_cards.txt: german_05/substantive.txt
+noun_cards.txt: german_06/substantive.txt
 	./conversion/convert_nouns $< $@
 
-varia_cards.txt: german_05/varia.txt
+varia_cards.txt: german_06/varia.txt
 	./conversion/convert_varia $< $@
 
-preposition_cards.txt: german_05/prepositions.txt
+preposition_cards.txt: german_06/prepositions.txt
 	./conversion/convert_prepositions $< $@
 
-#verb_cards.txt: german_05/verben.txt
+#verb_cards.txt: german_06/verben.txt
 #	./conversion/convert_verbs $< $@
 
 # Cloze cards
 cloze_cards.txt: $(INTERMEDIATE_CLOZE_FILES)
 	cat $(INTERMEDIATE_CLOZE_FILES) > cloze_cards.txt
 
-verb_conjugation_cards.txt: german_05/irregular_verb_conjugation.txt
+verb_conjugation_cards.txt: german_06/irregular_verb_conjugation.txt
 	./conversion/convert_verb_conjugation $< $@
 
 clean:
