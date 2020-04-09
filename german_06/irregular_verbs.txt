@@ -1,0 +1,83 @@
+anfangen;fängt an;fing an;hat angefangen;aanvangen
+beginnen;beginnt;begann;hat begonnen;beginnen
+beißen;beißt;biss;hat gebissen;bijten
+biegen;biegt;bog;hat gebogen;buigen
+bieten;bietet;bot;hat geboten;bieden
+bitten;bittet;bat;hat gebeten;bijten
+bleiben;bleibt;blieb;ist geblieben;blijven
+brechen;bricht;brach;hat gebrochen;breken
+brennen;brennt;brannte;hat gebrannt;branden
+bringen;bringt;brachte;hat gebracht;brengen
+denken;denkt;dachte;hat gedacht;denken
+dürfen;darf;durfte;hat mitkommen dürfen (selten);mogen
+essen;isst;aß;hat gegessen;eten
+fahren;fährt;fuhr;ist gefahren;rijden
+fallen;fällt;fiel;ist gefallen;vallen
+fangen;fängt;fing;hat gefangen;vangen
+finden;findet;fand;hat gefunden;vinden
+fliegen;fliegt;flog;ist geflogen;vliegen
+frieren;friert;fror;hat gefroren;vriezen
+geben;gibt;gab;hat gegeben;geven
+gefallen;gefällt;gefiel;hat gefallen;bevallen (iets goed vinden)
+gehen;geht;ging;ist gegangen;gaan
+gelingen;gelingt;gelang;ist gelungen;(in iets) slagen / lukken
+genießen;genießt;genoss;hat genossen;genieten
+geschehen;geschieht;geschah;ist geschehen;gebeuren
+gießen;gießt;goss;hat gegossen;gieten
+greifen;greift;griff;hat gegriffen;grijpen
+haben;hat;hatte;hat gehabt;hebben
+halten;hält;hielt;hat gehalten;stoppen
+hängen;hängt;hing;hat gehangen;hangen
+helfen;hilft;half;hat geholfen;helpen
+kennen;kennt;kannte;hat gekannt;kennen
+kommen;kommt;kam;ist gekommen;komen
+können;kann;konnte;hat singen können (selten);kunnen
+laden;lädt;lud;hat geladen;laden
+lassen;lässt;ließ;hat gelassen;laten
+laufen;läuft;lief;ist gelaufen;lopen
+lesen;liest;las;hat gelesen;lezen
+liegen;liegt;lag;hat gelegen;liggen
+lügen;lügt;log;hat gelogen;liegen
+mögen;mag;mochte;hat keinen Spinat gemocht;lusten / willen / graag hebben
+müssen;muss;musste;hat weggehen müssen (selten);moeten
+nehmen;nimmt;nahm;hat genommen;nemen
+nennen;nennt;nannte;hat genannt;noemen (ww)
+rennen;rennt;rannte;ist gerannt;rennen
+riechen;riecht;roch;hat gerochen;ruiken
+rufen;ruft;rief;hat gerufen;roepen
+scheinen;scheint;schien;hat geschienen;schijnen
+schlafen;schläft;schlief;hat geschlafen;slapen
+schlagen;schlägt;schlug;hat geschlagen;slaan
+schließen;schließt;schloss;hat geschlossen;sluiten
+schneiden;schneidet;schnitt;hat geschnitten;snijden
+schrecken;schrickt;schrak;ist geschrocken;schrikken
+schreiben;schreibt;schrieb;hat geschrieben;schrijven
+schweigen;schweigt;schwieg;hat geschwiegen;zwijgen
+schwimmen;schwimmt;schwamm;ist geschwommen;zwemmen
+sehen;sieht;sah;hat gesehen;zien
+sein;ist;war;ist gewesen;zijn
+singen;singt;sang;hat gesungen;zingen
+sitzen;sitzt;saß;hat gesessen;zitten
+sollen;soll;sollte;hat anrufen sollen (selten);zullen/moeten (hoort te zijn)
+sprechen;spricht;sprach;hat gesprochen;spreken
+springen;springt;sprang;ist gesprungen;springen
+stechen;sticht;stach;hat gestochen;steken
+stehen;steht;stand;hat gestanden;staan
+steigen;steigt;stieg;ist gestiegen;stijgen
+sterben;stirbt;starb;ist gestorben;sterven
+stoßen;stößt;stieß;hat gestoßen;stoten
+tragen;trägt;trug;hat getragen;dragen
+treffen;trifft;traf;hat getroffen;ontmoeten
+treten;tritt;trat;ist getreten;stappen
+trinken;trinkt;trank;hat getrunken;drinken
+tun;tut;tat;hat getan;doen
+vergessen;vergisst;vergaß;hat vergessen;vergeten
+verlieren;verliert;verlor;hat verloren;verliezen
+waschen;wäscht;wusch;hat gewaschen;wassen
+werden;wird;wurde;ist geworden;worden
+werfen;wirft;warf;hat geworfen;werpen
+wissen;weiß;wusste;hat gewusst;weten
+wollen;will;wollte;hat abfahren wollen (selten);willen
+ziehen;zieht;zog;hat gezogen;trekken
+anziehen;zieht an;zog an;hat angezogen;aantrekken
+umziehen;zieht um;zog um;ist umgezogen;verhuizen
