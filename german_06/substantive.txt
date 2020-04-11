@@ -1,6 +1,16 @@
+Abiturient;der;Abiturienten;iemand die zijn Abitur doet
 Agentur;die;Agenturen;het agentschap
+Angebot;das;Angebote;het aanbod
+Anrede;die;Anreden;de aanhef/aanspreking
+Anzug;der;Anzüge;het kostuum/het pak
+Aufsatz;der;Aufsätze;het essay
+Ausbildung;die;Ausbildungen;de opleiding
+Auskunft;die;Auskünfte;de inlichting/de informatie
+Ausrede;die;Ausreden;het excuus
 Auswahl;die;Auswahlen;de keuze/het assortiment
+Auswertung;die;Auswertungen;de evaluatie
 Bäckerei;die;Bäckereien;de bakkerij
+Bankangestellte;die;Bankangestellten;de bankbediende
 Bank(aut)omat;der;Bankautomaten;de bankautomaat
 Bank;die;Banken;de bank
 Bankgebühr;die;Bankgebühren;de bankkosten
@@ -16,8 +26,10 @@ Buchladen;der;Buchläden;de boekenwinkel
 Discounter;der;Discounter;de discounter
 Drucker;der;Drucker;de printer
 Durchbruch;der;Durchbrüche;de doorbraak
+Einkaufstüte;die;Einkaufstüten;de winkeltas
 Einkaufszentrum;das;Einkaufszentren;het winkelcentrum
 Einkommen;das;Einkommen;het inkomen
+Ergebnis;das;Ergebnisse;de uitkomst/het resultaat
 Erlös;der;Erlöse;de opbrengst
 Euro;der;Euro(s);de euro
 Fachgeschäft;das;Fachgeschäfte;de vakwinkel
@@ -25,28 +37,43 @@ Fehlkauf;der;Fehlkäufe;de miskoop
 Fernbedienung;die;Fernbedienungen;de afstandsbediening
 Fernsehgebühr;die;Fernsehgebühren;het kijkgeld/de tv-vergoeding
 Fernsehspot;der;Fernsehspots;de tv-commercial
+Forscher;der;Forscher;de onderzoeker
+Fremdsprache;die;Fremdsprachen;de vreemde taal
+Gedächtnis;das;Gedächtnisse;het geheugen/de herinnering
 Gehalt;der;Gehalte;het salaris/wedde
 Geldschein;der;Geldscheine;het geldbiljet
 Geschöpf;das;Geschöpfe;het schepsel
+Gesundheidspflege;die;/;de gezondheidszorg
 Gewerkschaft;die;Gewerkschaften;de vakbond
 Gewinn;der;Gewinne;de winst
 Glücksspiel;das;Glücksspiele;het kansspel
+Grundschule;die;Grundschulen;de lagere school
+Gutschein;der;Gutscheine;de kortingsbon
+Gymnasium;das;Gymnasien;de middelbare school
+Handy;das;Handys;de gsm
+Haushalt;der;Haushalte;het huishouden
 Haushaltsgerät;das;Haushaltsgeräte;het huishoudapparaat
 Hoffnung;die;Hoffnungen;de hoop
 Internetkauf;der;Internetkäufe;de internetaankoop
 Internetzeitaler;das;/;het internettijdperk
+Jacke;die;Jacken;de jas
 Jahrhundert;das;Jahrhunderte;de eeuw
 Kaufhaus;das;Kaufhäuser;het warenhuis
+Kindergarten;der;Kindergärten;de kleuterklas
 Konditorei;die;Konditoreien;de banketbakkerij
+Konsum;der;Konsums;de consumptie/het verbruik
 Kontonummer;die;Kontonummern;de rekeningnummer
 Kredit;der;Kredite;het krediet
 Krimi;der;Krimis;de detective (film/roman)
+Kundenberatung;die;Kundenberatungen;het klantenadvies
+Kurs;der;Kurse;de cursus
 Laden;der;Läden;de winkel
 Lagerhalle;die;Lagerhallen;het magazijn
 Lebensmittelgeschäft;das;Lebensmittelgeschäfte;de voedingswinkel
 Lotterie;die;Lotterien;de loterij
 Lottogewinner;der;Lottogewinner;de lottowinnaar
 Lottoschein;der;Lottoscheine;het lottobiljet
+Märchen;das;Märchen;het sprookje/verzinsel
 Marke;die;Marken;het merk
 Markt;der;Märkte;de markt
 Messe;die;Messen;de (jaar)beurs
@@ -55,28 +82,45 @@ Münze;die;Münzen;de munt
 Nachrichtenagentur;die;Nachrichtenagenturen;het nieuwsagentschap/persbureau
 Nahrungsmittel;das;Nahrungsmittel;het voedingsmiddel
 Plakat;das;Plakate;het aanplakbiljet
+Praktikant;der;Praktikanten;de stagiair
+Praktikum;das;Praktika;de stage
 Preis;der;Preise;de prijs
 Preisunterschied;der;Preisunterschiede;het prijsverschil
 Presse;die;Pressen;de pers
 Prüfziffer;die;Prüfziffern;het controlegetal
+Pulli;der;Pullis;de pullover
 Quittung;die;Quittungen;de kwitantie
 Radiospot;der;Radiospots;de radio-commercial
 Rate;die;Raten;de termijn/het percentage (bij betalen)
 Rechtslage;die;Rechtslagen;de rechtspositie/de juridische situatie
+Reklamation;die;Reklamationen;de reclamatie/het bezwaar
+Reparatur;die;Reparaturen;de herstelling
 Rundfunk;der;/;de radio(omroep)
 Scheinwelt;die;Scheinwelten;de schijnwereld
 Schlagzeile;die;Schlagzeilen;de (kranten)kop
 Schnäppchen;das;Schnäppchen;het koopje
 Secondhandladen;der;Secondhandläden;de tweedehandswinkel
+Sparkonto;das;Sparkontos;de spaarrekening
 Spende;die;Spenden;de gift/donatie
 Steuer;die;Steuern;de belasting
+Stipendium;das;Stipendien;de (studie)beurs
+Strom;der;Ströme;de stroom
 Supermarkt;der;Supermärkte;de supermarkt
 Taste;die;Tasten;de knop
+Tätigkeit;die;Tätigkeiten;de bezigheid/de activiteit
 Überweisung;die;Überweisungen;de overschrijving
+Uhr;die;Uhren;het horloge
+Uhrheberecht;das;Uhrheberechte;het auteursrecht
+Umtausch;der;Umtäusche/Umtausche;de uitwisseling
 Untergeschoss;das;Untergeschosse;de kelder
+Veranstaltung;die;Veranstaltungen;de organisatie/manifestatie
+Verkehr;der;/;het verkeer
 Versandhaus;das;Versandhäuser;het postorderbedrijf
+Wahl;die;Wahlen;de keuze/verkiezing
 Währung;die;Währungen;de valuta
+Ware;die;Waren;het (koop)waar/artikel
 Wartung;die;Wartungen;het onderhoud/de verzorging
+Wäsche;die;Wäschen;het wasgoed
 Werbung;die;Werbungen;de reclame
 Werkstatt;die;Werkstätten;de werkplaats/garage
 Windrad;das;Windräder;de windmolen
@@ -84,5 +128,6 @@ Zahlungsverkehr;der;/;het betalingsverkeer
 Zauberer;der;Zauberer;de tovenaar
 Zeichentrickfilm;der;Zeichentrickfilme;de tekenfilm
 Zeitungsannonce;die;Zeitungsannoncen;de krantenadvertentie
+Zeugnis;das;Zeugnisse;de getuigenis/het attest
 Zins;der;Zinse;de rente/interest
 Zweigstelle;die;Zweigstellen;het filiaal
