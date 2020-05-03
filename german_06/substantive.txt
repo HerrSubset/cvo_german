@@ -1,7 +1,9 @@
 Abiturient;der;Abiturienten;iemand die zijn Abitur doet
+Abschleppwagen;der;Abschleppwagen;de takelwagen
 Agentur;die;Agenturen;het agentschap
 Angebot;das;Angebote;het aanbod
 Anrede;die;Anreden;de aanhef/aanspreking
+Anwohner;der;Anwohner;de aanwonende/buur
 Anzug;der;Anzüge;het kostuum/het pak
 Aufsatz;der;Aufsätze;het essay
 Ausbildung;die;Ausbildungen;de opleiding
@@ -16,10 +18,12 @@ Bank;die;Banken;de bank
 Bankgebühr;die;Bankgebühren;de bankkosten
 Bankleitzahl;die;Bankleitzahlen;de bankcode
 Bargeld;das;/;het cashgeld
+Benzinkanister;der;Benzinkanister;de jerrycan
 Beratung;die;Beratungen;de bespreking/het advies
 Beschwerde;die;Beschwerden;de klacht
 Betrag;der;Beträge;het bedrag
 Börse;die;Börsen;de beurs
+Bremse;die;Bremsen;de rem
 Brieftasche;die;Brieftaschen;de portefeuille
 Bücherwurm;der;Bücherwürmer;de boekenworm
 Buchladen;der;Buchläden;de boekenwinkel
@@ -33,14 +37,18 @@ Ergebnis;das;Ergebnisse;de uitkomst/het resultaat
 Erlös;der;Erlöse;de opbrengst
 Euro;der;Euro(s);de euro
 Fachgeschäft;das;Fachgeschäfte;de vakwinkel
+Fahndung;die;Fahndungen;het opsporingsbericht/de opsporing
+Fahrer;der;Fahrer;de bestuurder
 Fehlkauf;der;Fehlkäufe;de miskoop
 Fernbedienung;die;Fernbedienungen;de afstandsbediening
 Fernsehgebühr;die;Fernsehgebühren;het kijkgeld/de tv-vergoeding
 Fernsehspot;der;Fernsehspots;de tv-commercial
 Forscher;der;Forscher;de onderzoeker
 Fremdsprache;die;Fremdsprachen;de vreemde taal
+Gaspedal;das;Gaspedale;het gaspedaal
 Gedächtnis;das;Gedächtnisse;het geheugen/de herinnering
 Gehalt;der;Gehalte;het salaris/wedde
+Geisterfahrer;der;Geisterfahrer;de spookrijder
 Geldschein;der;Geldscheine;het geldbiljet
 Geschöpf;das;Geschöpfe;het schepsel
 Gesundheidspflege;die;/;de gezondheidszorg
@@ -50,6 +58,7 @@ Glücksspiel;das;Glücksspiele;het kansspel
 Grundschule;die;Grundschulen;de lagere school
 Gutschein;der;Gutscheine;de kortingsbon
 Gymnasium;das;Gymnasien;de middelbare school
+Handbremse;die;Handbremsen;de handrem
 Handy;das;Handys;de gsm
 Haushalt;der;Haushalte;het huishouden
 Haushaltsgerät;das;Haushaltsgeräte;het huishoudapparaat
@@ -59,13 +68,17 @@ Internetzeitaler;das;/;het internettijdperk
 Jacke;die;Jacken;de jas
 Jahrhundert;das;Jahrhunderte;de eeuw
 Kaufhaus;das;Kaufhäuser;het warenhuis
+Kennzeichen;das;Kennzeichen;de nummerplaat
 Kindergarten;der;Kindergärten;de kleuterklas
+Kofferraum;der;Kofferräume;de kofferbak
 Konditorei;die;Konditoreien;de banketbakkerij
 Konsum;der;Konsums;de consumptie/het verbruik
 Kontonummer;die;Kontonummern;de rekeningnummer
 Kredit;der;Kredite;het krediet
+Kreisverkehr;der;Kreisverkehre;de rotonde
 Krimi;der;Krimis;de detective (film/roman)
 Kundenberatung;die;Kundenberatungen;het klantenadvies
+Kupplung;die;Kupplungen;de koppeling
 Kurs;der;Kurse;de cursus
 Laden;der;Läden;de winkel
 Lagerhalle;die;Lagerhallen;het magazijn
@@ -76,12 +89,20 @@ Lottoschein;der;Lottoscheine;het lottobiljet
 Märchen;das;Märchen;het sprookje/verzinsel
 Marke;die;Marken;het merk
 Markt;der;Märkte;de markt
+Massenkarambolage;die;Massenkarambolagen;de kettingbotsing
 Messe;die;Messen;de (jaar)beurs
 Metzger;der;Metzger;de slager
+Mittelstreifen;der;Mittelstreifen;de middenberm/middellijn
+Motorhaube;die;Motorhauben;de motorkap
 Münze;die;Münzen;de munt
 Nachrichtenagentur;die;Nachrichtenagenturen;het nieuwsagentschap/persbureau
 Nahrungsmittel;das;Nahrungsmittel;het voedingsmiddel
+Notdienst;der;Notdienste;de hulpdienst
+Öl;das;Öle;de olie
+Pannenhelfer;der;Pannenhelfer;de pechhulp
+Parkgebühr;die;Parkgebühren;het parkeergeld
 Plakat;das;Plakate;het aanplakbiljet
+Platten;der;Platten;de platte band
 Praktikant;der;Praktikanten;de stagiair
 Praktikum;das;Praktika;de stage
 Preis;der;Preise;de prijs
@@ -93,17 +114,27 @@ Quittung;die;Quittungen;de kwitantie
 Radiospot;der;Radiospots;de radio-commercial
 Rate;die;Raten;de termijn/het percentage (bij betalen)
 Rechtslage;die;Rechtslagen;de rechtspositie/de juridische situatie
+Reifen;der;Reifen;de band
 Reklamation;die;Reklamationen;de reclamatie/het bezwaar
 Reparatur;die;Reparaturen;de herstelling
+Reservereifen;der;Reservereifen;het reservewiel
+Rückspiegel;der;Rückspiegel/de achteruitkijkspiegel
 Rundfunk;der;/;de radio(omroep)
+Sackgasse;die;Sackgassen;de doodlopende straat
+Scheibenwischer;der;Scheibenwischer;de ruitenwisser
 Scheinwelt;die;Scheinwelten;de schijnwereld
+Scheinwerfer;der;Scheinwerfer;de schijnwerper/koplamp
 Schlagzeile;die;Schlagzeilen;de (kranten)kop
 Schnäppchen;das;Schnäppchen;het koopje
 Secondhandladen;der;Secondhandläden;de tweedehandswinkel
+Seitenspiegel;der;Seitenspiegel;de zijspiegel
+Sitz;der;Sitze;de zitplaats/zetel
 Sparkonto;das;Sparkontos;de spaarrekening
 Spende;die;Spenden;de gift/donatie
+Spur;die;Spuren;het spoor/rijvak
 Steuer;die;Steuern;de belasting
 Stipendium;das;Stipendien;de (studie)beurs
+Stoßstange;die;Stoßstangen;de bumper
 Strom;der;Ströme;de stroom
 Supermarkt;der;Supermärkte;de supermarkt
 Taste;die;Tasten;de knop
@@ -115,10 +146,14 @@ Umtausch;der;Umtäusche/Umtausche;de uitwisseling
 Untergeschoss;das;Untergeschosse;de kelder
 Veranstaltung;die;Veranstaltungen;de organisatie/manifestatie
 Verkehr;der;/;het verkeer
+Verkehrsschild;das;Verkehrsschilder;het verkeersbord
 Versandhaus;das;Versandhäuser;het postorderbedrijf
+Vignette;die;Vignetten;het vignet
 Wahl;die;Wahlen;de keuze/verkiezing
 Währung;die;Währungen;de valuta
 Ware;die;Waren;het (koop)waar/artikel
+Warndreieck;der;Warndreiecke;de gevarendriehoek
+Warnveste;die;Warnvesten;het fluohesje
 Wartung;die;Wartungen;het onderhoud/de verzorging
 Wäsche;die;Wäschen;het wasgoed
 Werbung;die;Werbungen;de reclame
@@ -130,41 +165,6 @@ Zeichentrickfilm;der;Zeichentrickfilme;de tekenfilm
 Zeitungsannonce;die;Zeitungsannoncen;de krantenadvertentie
 Zeugnis;das;Zeugnisse;de getuigenis/het attest
 Zins;der;Zinse;de rente/interest
-Zweigstelle;die;Zweigstellen;het filiaal
-Seitenspiegel;der;Seitenspiegel;de zijspiegel
-Scheibenwischer;der;Scheibenwischer;de ruitenwisser
-Motorhaube;die;Motorhauben;de motorkap
-Stoßstange;die;Stoßstangen;de bumper
-Zusammenstoß;der;Zusammenstöße;de (frontale) aanrijding
-Massenkarambolage;die;Massenkarambolagen;de kettingbotsing
-Kupplung;die;Kupplungen;de koppeling
-Bremse;die;Bremsen;de rem
 Zündschloss;das;Zündschlösser;het contact(slot)
-Gaspedal;das;Gaspedale;het gaspedaal
-Handbremse;die;Handbremsen;de handrem
-Sitz;der;Sitze;de zitplaats/zetel
-Sackgasse;die;Sackgassen;de doodlopende straat
-Mittelstreifen;der;Mittelstreifen;de middenberm/middellijn
-Kennzeichen;das;Kennzeichen;de nummerplaat
-Anwohner;der;Anwohner;de aanwonende/buur
-Verkehrsschild;das;Verkehrsschilder;het verkeersbord
-Abschleppwagen;der;Abschleppwagen;de takelwagen
-Vignette;die;Vignetten;het vignet
-Benzinkanister;der;Benzinkanister;de jerrycan
-Platten;der;Platten;de platte band
-Reservereifen;der;Reservereifen;het reservewiel
-Fahndung;die;Fahndungen;het opsporingsbericht/de opsporing
-Spur;die;Spuren;het spoor/rijvak
-Geisterfahrer;der;Geisterfahrer;de spookrijder
-Kofferraum;der;Kofferräume;de kofferbak
-Kreisverkehr;der;Kreisverkehre;de rotonde
-Fahrer;der;Fahrer;de bestuurder
-Öl;das;Öle;de olie
-Notdienst;der;Notdienste;de hulpdienst
-Pannenhelfer;der;Pannenhelfer;de pechhulp
-Parkgebühr;die;Parkgebühren;het parkeergeld
-Reifen;der;Reifen;de band
-Scheinwerfer;der;Scheinwerfer;de schijnwerper/koplamp
-Rückspiegel;der;Rückspiegel/de achteruitkijkspiegel
-Warndreieck;der;Warndreiecke;de gevarendriehoek
-Warnveste;die;Warnvesten;het fluohesje
+Zusammenstoß;der;Zusammenstöße;de (frontale) aanrijding
+Zweigstelle;die;Zweigstellen;het filiaal

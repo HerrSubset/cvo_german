@@ -1,6 +1,7 @@
 
 abmahnen;aanmanen
 aktuell;actueel
+anhalten;zelf stoppen (ophouden)
 aufregend;opwindend/spannend
 Ausrichten;meedelen/op de hoogte stellen/opstellen
 bei einer Prüfung durchfallen;niet slagen voor een examen
@@ -8,6 +9,7 @@ betreuen;zorgen voor/begeleiden
 beziehungsweise;respectievelijk/of liever gezegd
 bildschön;beeldschoon
 brandneu;gloednieuw
+bremsen;remmen
 das Girokonto;de zichtrekening
 (den Unterricht) schwänzen;brossen
 die Versandkosten;de verzendkosten
@@ -15,7 +17,9 @@ ehrgeizig;eerzuchtig/ambitieus
 Ein Buch verschlingen;een boek verslinden
 eine Prüfung ablegen;een examen afleggen
 eine Prüfung bestehen;slagen voor een examen
+einsteigen;instappen
 einzigartig;uniek
+entwarnen;het signaal 'veilig' geven/een waarschuwing ongedaan maken
 erstklassig;eersteklas/prima
 etwas auf Lager haben;iets in voorraad hebben
 etwas im Wörterbuch nachslagen;iets in het woordenboek opzoeken
@@ -30,25 +34,21 @@ herstellen;fabriceren/vervaardigen
 hervorragend;uitstekend/voortreffelijk
 merke dir das;vergeet het niet
 ordentlich;ordelijk/fatsoenlijk
+parken;parkeren
 preiswert;van goede prijs/kwaliteit
 schlau;sluw
+sich anschnallen;zich vastgespen/zijn gordel aandoen
 sich beeilen;zich haasten
 sich irren;zich vergissen
 sich verfahren;verkeerd rijden
 sprachbegabt sein;een taalknobbel hebben
 staatsunabhängig;staatsonafhankelijk
+stoppen;iets/iemand doen stoppen
+überholen;inhalen
 um Rat bitten;om raad vragen
 vereinbaren;overeens komen
 verhaften;arresteren
 vertreten;vertegenwoordigen
+Vorfahrt gewähren;voorrang verlenen
 witzig;grappig
 Wünsche wecken;wensen opwekken
-sich anschnallen;zich vastgespen/zijn gordel aandoen
-bremsen;remmen
-stoppen;iets/iemand doen stoppen
-anhalten;zelf stoppen (ophouden)
-entwarnen;het signaal 'veilig' geven/een waarschuwing ongedaan maken
-parken;parkeren
-überholen;inhalen
-Vorfahrt gewähren;voorrang verlenen
-einsteigen;instappen

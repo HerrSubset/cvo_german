@@ -1,77 +1,77 @@
-Die Frau ist stolz;auf;ihren Sohn.
-Peter ist traurig;über;die nachricht.
-Uwe kommt;mit;dem Geld nicht aus.
-Frau Klein lacht;überen Witz.
-Der Verkehrsfunk warnt;vor;dem Stau.
-Die Schule verfügt;über;moderne Computer.
+Achten;auf;die richtige Aussprache.
+;An;den letzten Urlaub denken.
+;An;einer diskussionsrunde teilnehmen.
+;An;eine Zusammenarbeit glauben.
+;Auf;die neuen Gäste warten.
+;Auf;eine zweite Chance verzichten.
+;Bei;der Polizei anrufen.
+;Bei;einer Frima wie Krupp arbeiten.
 Bernd kennt sich in Informatik;aus;.
-Uschi ist neidisch;auf;ihre Nachbarin.
-Der Sänger ist erstaunt;über;den Erfolg.
-Oma kümmert sich;um;die Enkel.
+Das ist  schädlich;für;die Gesundheit.
+Das ist wichtig;für;deine Arbeit.
+Der Brotpreis sinkt;um;2 Prozent.
+Der Hund leidet;an;einer Krankheit.
+Der Laptop ist nützlich;für;die Arbeit.
+Der Nachbar ist begeistert;von;der Idee.
+Der Ölpreis steigt;um;5 Prozent.
 Der Radfahrer war wütend;auf;die Polizei.
-Meike ist zufrieden;mit;der Arbeit.
-Herr Nase informiert sich;über;den Job.
+Der Sänger ist erstaunt;über;den Erfolg.
+Der Schüler ist froh;über;seine Fortschritte.
+Der Student ist;am;Sprachkurs interessiert.
+Der Tourist fragt;nach;dem Weg.
+Der Verkehrsfunk warnt;vor;dem Stau.
+Die Frau ist glücklich;über;die Lösung.
+Die Frau ist stolz;auf;ihren Sohn.
 Die Sängerin ist beliebt;bei;den Jugendlichen.
-Madonna leidet;unter;der Kritik.
-Jürgen ist überzeugt;vom;Erfolg.
-Klaus ist;an;der Grippe erkrankt.
+Die Schule verfügt;über;moderne Computer.
+Die Sekretärin ist eifersüchtig;auf;die Chefin.
 Die Studentin ist enttäuscht;von;dem Resultat.
 Dieter ist immer nett;zu;den Kollegen.
-Die Frau ist glücklich;über;die Lösung.
-Herbert ist befreunded;mit;dem Politiker.
-Veronika hat Angst;vor;der Prüfung.
-Thomas ist verantwortlich;für;das Ungluck.
-Der Tourist fragt;nach;dem Weg.
-Der Schüler ist froh;über;seine Fortschritte.
-Heidi ist allergisch;gegen;Katzen.
-Der Nachbar ist begeistert;von;der Idee.
-Der Brotpreis sinkt;um;2 Prozent.
-Der Student ist;am;Sprachkurs interessiert.
-Die Sekretärin ist eifersüchtig;auf;die Chefin.
-Der Laptop ist nützlich;für;die Arbeit.
-Renate telefoniert;mit;ihrer Mutter.
-Mein Bruder ist dankbar;für;den Rat.
-Das ist wichtig;für;deine Arbeit.
-Der Hund leidet;an;einer Krankheit.
-Norbert spricht nie;über;seine Eltern.
-Karola fürchtet sich;vor;der Renovierung.
-Das ist  schädlich;für;die Gesundheit.
-Der Ölpreis steigt;um;5 Prozent.
-Florian dankt allen;für;die Hilfe.
-Jemand erkennen;an;der rauhen Stimme.
-Träumen;von;viel Geld.
-Achten;auf;die richtige Aussprache.
-Sich;vor;einem großen Hund fürchten.
-;Auf;eine zweite Chance verzichten.
-Sich;mit;der deutschen Sprache beschäftigen.
-;An;den letzten Urlaub denken.
-Gehören;zu;den besten Spezialisten.
 Es geht;um;eine unbekannte Krankheit.
-Sich;über;den kleinen Fortschritt ärgern.
-Sich;über;die hohen Preisen beschweren.
-Sich;um;eine neue Stelle bewerben.
-Sich;für;die neuen Studenten interessieren.
-Sich;mit;dem Vermieter streiten.
-Sich;nach;dem Kinoprogramm erkundigen.
-Sich;auf;die nächsten Ferien freuen.
-Sich;über;die letzten Ferien freuen.
-;Zum;25. Hochzeitstag gratulieren.
-Reden;über;die deutsche Wirtschaft.
-Sich;bei;dem Gastgeber bedanken.
+Florian dankt allen;für;die Hilfe.
+Frau Klein lacht;überen Witz.
+Gehören;zu;den besten Spezialisten.
+Heidi ist allergisch;gegen;Katzen.
+Herbert ist befreunded;mit;dem Politiker.
+Herr Nase informiert sich;über;den Job.
+Jemand erkennen;an;der rauhen Stimme.
+Jürgen ist überzeugt;vom;Erfolg.
+Karola fürchtet sich;vor;der Renovierung.
+Klaus ist;an;der Grippe erkrankt.
+Madonna leidet;unter;der Kritik.
+Meike ist zufrieden;mit;der Arbeit.
+Mein Bruder ist dankbar;für;den Rat.
 ;Nach;einer passenden Lösung suchen.
-;Bei;der Polizei anrufen.
-;An;einer diskussionsrunde teilnehmen.
+Norbert spricht nie;über;seine Eltern.
+Oma kümmert sich;um;die Enkel.
+Peter ist traurig;über;die nachricht.
+Petra hat sich;über;den Abschied gefreut.
+Reden;über;die deutsche Wirtschaft.
+Renate telefoniert;mit;ihrer Mutter.
+Sich;auf;die nächsten Ferien freuen.
+Sich;bei;dem Gastgeber bedanken.
 Sich;bei;dem Wirt entschuldigen.
 Sich;für;den Lärm entschuldigen.
-;An;eine Zusammenarbeit glauben.
-;Zu;den größten Muskern zählen.
-Sich;über;das Freizeitangebot unterhalten.
-;Auf;die neuen Gäste warten.
-;Um;viele Euro steigen.
-Sich noch;an;den ersten Termin erinnern.
-;Bei;einer Frima wie Krupp arbeiten.
-Sich;mit;seinem Bruder über das spiel streiten.
+Sich;für;die neuen Studenten interessieren.
+Sich;mit;dem Vermieter streiten.
+Sich;mit;der deutschen Sprache beschäftigen.
 Sich mit seinem Bruder;über;das spiel streiten.
+Sich;mit;seinem Bruder über das spiel streiten.
+Sich;nach;dem Kinoprogramm erkundigen.
+Sich noch;an;den ersten Termin erinnern.
+Sich;über;das Freizeitangebot unterhalten.
+Sich;über;den kleinen Fortschritt ärgern.
+Sich;über;die hohen Preisen beschweren.
+Sich;über;die letzten Ferien freuen.
+Sich;um;eine neue Stelle bewerben.
+Sich;vor;einem großen Hund fürchten.
 Sie hat sich;um;den Job in der Gallerie beworben
-Petra hat sich;über;den Abschied gefreut.
+Thomas ist verantwortlich;für;das Ungluck.
+Träumen;von;viel Geld.
+;Um;viele Euro steigen.
+Uschi ist neidisch;auf;ihre Nachbarin.
+Uwe kommt;mit;dem Geld nicht aus.
+Veronika hat Angst;vor;der Prüfung.
 Wenn es Stau gibt muss man eine;Rettungsgasse;machen.
+;Zu;den größten Muskern zählen.
+;Zum;25. Hochzeitstag gratulieren.
