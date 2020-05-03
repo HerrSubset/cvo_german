@@ -43,3 +43,12 @@ verhaften;arresteren
 vertreten;vertegenwoordigen
 witzig;grappig
 Wünsche wecken;wensen opwekken
+sich anschnallen;zich vastgespen/zijn gordel aandoen
+bremsen;remmen
+stoppen;iets/iemand doen stoppen
+anhalten;zelf stoppen (ophouden)
+entwarnen;het signaal 'veilig' geven/een waarschuwing ongedaan maken
+parken;parkeren
+überholen;inhalen
+Vorfahrt gewähren;voorrang verlenen
+einsteigen;instappen

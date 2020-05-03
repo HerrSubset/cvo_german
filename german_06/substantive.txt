@@ -131,3 +131,40 @@ Zeitungsannonce;die;Zeitungsannoncen;de krantenadvertentie
 Zeugnis;das;Zeugnisse;de getuigenis/het attest
 Zins;der;Zinse;de rente/interest
 Zweigstelle;die;Zweigstellen;het filiaal
+Seitenspiegel;der;Seitenspiegel;de zijspiegel
+Scheibenwischer;der;Scheibenwischer;de ruitenwisser
+Motorhaube;die;Motorhauben;de motorkap
+Stoßstange;die;Stoßstangen;de bumper
+Zusammenstoß;der;Zusammenstöße;de (frontale) aanrijding
+Massenkarambolage;die;Massenkarambolagen;de kettingbotsing
+Kupplung;die;Kupplungen;de koppeling
+Bremse;die;Bremsen;de rem
+Zündschloss;das;Zündschlösser;het contact(slot)
+Gaspedal;das;Gaspedale;het gaspedaal
+Handbremse;die;Handbremsen;de handrem
+Sitz;der;Sitze;de zitplaats/zetel
+Sackgasse;die;Sackgassen;de doodlopende straat
+Mittelstreifen;der;Mittelstreifen;de middenberm/middellijn
+Kennzeichen;das;Kennzeichen;de nummerplaat
+Anwohner;der;Anwohner;de aanwonende/buur
+Verkehrsschild;das;Verkehrsschilder;het verkeersbord
+Abschleppwagen;der;Abschleppwagen;de takelwagen
+Vignette;die;Vignetten;het vignet
+Benzinkanister;der;Benzinkanister;de jerrycan
+Platten;der;Platten;de platte band
+Reservereifen;der;Reservereifen;het reservewiel
+Fahndung;die;Fahndungen;het opsporingsbericht/de opsporing
+Spur;die;Spuren;het spoor/rijvak
+Geisterfahrer;der;Geisterfahrer;de spookrijder
+Kofferraum;der;Kofferräume;de kofferbak
+Kreisverkehr;der;Kreisverkehre;de rotonde
+Fahrer;der;Fahrer;de bestuurder
+Öl;das;Öle;de olie
+Notdienst;der;Notdienste;de hulpdienst
+Pannenhelfer;der;Pannenhelfer;de pechhulp
+Parkgebühr;die;Parkgebühren;het parkeergeld
+Reifen;der;Reifen;de band
+Scheinwerfer;der;Scheinwerfer;de schijnwerper/koplamp
+Rückspiegel;der;Rückspiegel/de achteruitkijkspiegel
+Warndreieck;der;Warndreiecke;de gevarendriehoek
+Warnveste;die;Warnvesten;het fluohesje

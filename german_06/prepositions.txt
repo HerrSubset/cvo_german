@@ -74,3 +74,4 @@ Sich;mit;seinem Bruder über das spiel streiten.
 Sich mit seinem Bruder;über;das spiel streiten.
 Sie hat sich;um;den Job in der Gallerie beworben
 Petra hat sich;über;den Abschied gefreut.
+Wenn es Stau gibt muss man eine;Rettungsgasse;machen.
